@@ -1,0 +1,5 @@
+1- Crear un nuevo módulo que se llame shared.module.ts
+2- Crear nuevo componente sidebar.component.ts -> Mover lo del html
+3- Exportar el sidebar
+4- Importar el sharedmodule dentro de app.module.ts
+5- <app-sidebar></app-sidebar> en app.component.html
